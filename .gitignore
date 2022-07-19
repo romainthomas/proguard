@@ -6,3 +6,12 @@ build
 local.properties
 /lib/
 docs/html
+.classpath
+.project
+.settings
+annotations/bin/
+ant/bin/
+base/bin/
+gradle-plugin/bin/
+gui/bin/
+retrace/bin/
